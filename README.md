@@ -190,5 +190,5 @@ Screenshots of the full system test (create/read/update/delete for all four enti
 
 ## Course
 
-**CSCE 548** — Software Development with Generative AI  
+**CSCE 548** — Building Secure Software 
 Project 4 — Full System Test & Deployment Documentation
