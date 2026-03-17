@@ -11,7 +11,7 @@ A full-stack, four-tier web application for tracking software vulnerabilities, a
 | Layer | Platform | URL |
 |-------|----------|-----|
 | Front End | Vercel | `https://csce548project.vercel.app` |
-| API / Service Layer | Railway | `https://csce548project-production.up.railway.app` |
+| API / Service Layer | Railway | Locked |
 | API Docs (Swagger) | Railway | `https://csce548project-production.up.railway.app/docs` |
 | Database | Railway PostgreSQL | (internal) |
 
